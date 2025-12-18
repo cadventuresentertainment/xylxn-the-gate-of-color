@@ -1,0 +1,37 @@
+Credits
+-------------------------
+
+dJ Blackbourne:
+  - Music
+  - Sound Effects
+
+CAdventures Entertainment:
+  - Programming
+
+Yanfly:
+  - Ace Core Engine
+  - Ace Menu Engine
+  - Ace Options Engine
+  - Ace Battle Engine
+  - Ace Battle HP Bars Add-On
+  - Ace Equipment Engine
+  - Command Window Icons
+  - Common Event Buttons
+http://www.yanfly.moe/wiki/Main_Page
+
+Himeworks:
+  - Splash Screen Script
+http://himeworks.com/2013/10/splash-screen-map/
+  - Windowskin Changer Script
+http://himeworks.com/2014/11/windowskin-changer/
+
+Moby:
+  - Message Sound Effects Script
+https://forums.rpgmakerweb.com/index.php?threads/mss-text-se.3463/
+
+GrandmaDeb:
+  - Animal Face Sprites
+https://forums.rpgmakerweb.com/index.php?threads/grannys-lists-vx-ace-animal-sprites.30456/
+
+-------------------------
+Global Game Jam 2020
